@@ -1,0 +1,27 @@
+-- How to Play:
+
+The game will ask you to make a move, undo a move, redo a 
+move, save the game, or quit.
+
+Making a move will prompt you for a row and column number. 
+These values will correspond with the numbers you can see 
+along the top and bottom of the board.
+
+If you enter them incorrectly, you will be asked to 
+re-enter a valid selection.
+
+Don't worry! If you enter a move that was a mistake then 
+you will have the option to undo your move, or redo a move 
+if you have undone too many.
+
+The game can be saved at any point for later use.
+
+Quitting will quit the game.
+
+
+-- Rules:
+
+Players alternate turns placing a stone of their color on 
+an empty position. Black plays first. The winner is 
+the first player to form an unbroken chain of five stones 
+horizontally, vertically, or diagonally.
